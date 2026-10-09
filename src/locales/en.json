@@ -1,0 +1,200 @@
+{
+  "pageHead": {
+    "home": {
+      "title": "FakeCompany: Carbon Solutions, Probably",
+      "desc": "We help companies figure out where all their carbon went, using AI, maps, and an alarming amount of coffee. Carbon inventory, reduction plans, and fewer spreadsheets, all in one place. Structure with tech, solve with logic, celebrate with snacks."
+    },
+    "blogs": {
+      "title": "FakeCompany ESG Ramblings",
+      "desc": "ESG news explained like you're five, or at least like you're tired."
+    }
+  },
+  "hero": {
+    "title": "Turning Off the Lights Really Matters (Demo Site)",
+    "subtitle": [
+      "Tracks your fleet like a nosy neighbor,",
+      "crunches carbon numbers with AI, and does the paperwork you've been avoiding."
+    ]
+  },
+  "product": {
+    "title": "Carbon Management, Now With Fewer Tears",
+    "route": "Routes So Efficient Your GPS Gets Jealous",
+    "iso": "An ISO Database That Actually Reads the Fine Print",
+    "ai": "An AI That Nags You Into Saving the Planet"
+  },
+  "whychap": {
+    "title": "Why FakeCompany? Because Your Spreadsheet Is Tired",
+    "list": [
+      {
+        "title": "AI That Judges Your Driving (Politely)",
+        "desc": "Our map-loving AI watches every hard brake and dramatic U-turn, figures out which habits burn the most fuel, and gently suggests you stop driving like you're in an action movie."
+      },
+      {
+        "title": "Carbon Strategies That Write Themselves",
+        "desc": "Nobody told the AI what to look for, and it found things anyway. It produces tips on driving risk and energy use while you're still deciding where to get lunch."
+      },
+      {
+        "title": "One Cloud Platform, Zero Paper Cuts",
+        "desc": "Pick from five modules, including carbon inventory, high-emission alerts, and real-time fleet tracking. It's like a buffet, except everything is good for the planet."
+      },
+      {
+        "title": "Carbon Coaching for Humans",
+        "desc": "Our team has collected enough imaginary certificates to wallpaper a small office. We offer ESG advice, carbon credit consulting, and training sessions with a below-average number of slides."
+      }
+    ]
+  },
+  "flow": {
+    "title": "FakeCompany: The Carbon Platform Your Car Didn't Know It Needed",
+    "labels": {
+      "before": "The Painful Way",
+      "after": "The FakeCompany Way"
+    },
+    "list": [
+      {
+        "title": "Step 1",
+        "beforeList": [
+          "Setup takes so long that the intern who started it has since been promoted twice.",
+          "Plugging into the car's computer occasionally makes the radio play only polka."
+        ],
+        "afterList": [
+          "Plug it in and it works faster than you can find the instruction manual.",
+          "No device? Just use your phone. Yes, the one you're already scrolling memes on."
+        ]
+      },
+      {
+        "title": "Step 2",
+        "beforeList": [
+          "Every car model speaks its own dialect, and half the data gets lost in translation."
+        ],
+        "afterList": [
+          "Works with sedans, trucks, vans, and possibly that suspicious golf cart in the parking lot.",
+          "Already have devices installed? We'll befriend them via API. No awkward small talk."
+        ]
+      },
+      {
+        "title": "Step 3",
+        "beforeList": [
+          "Collecting paper fuel receipts by hand, including the ones that went through the washing machine.",
+          "Auditors ask for proof, and you hand them a shoebox full of crumpled paper."
+        ],
+        "afterList": [
+          "Data collects itself and lives in the cloud, guarded more tightly than the office snack drawer.",
+          "Carbon numbers calculate themselves, so nobody has to blame the calculator anymore."
+        ]
+      },
+      {
+        "title": "Step 4",
+        "beforeList": [
+          "You get a pie chart. Then you stare at the pie chart. Then you get hungry for actual pie."
+        ],
+        "afterList": [
+          "AI reads the charts so you can finally take that lunch break.",
+          "Up to 35% fewer emissions, and roughly 100% fewer headaches (unverified)."
+        ],
+        "afterSlot": [
+          "AI Does the Thinking,",
+          "You Take the Credit"
+        ]
+      }
+    ]
+  },
+  "member": {
+    "title": "Meet the Suspects",
+    "list": [
+      {
+        "name": "Jordan Parker",
+        "jobTitle": "Chief Snack Officer",
+        "profession": "Spreadsheet Whispering / Strategic Napping",
+        "experienceList": [
+          "Former product lead at a fictional logistics startup, with 8 years of experience building forecasting models for warehouse operations. Enjoys long-distance cycling on weekends."
+        ]
+      },
+      {
+        "name": "Casey Bennett",
+        "jobTitle": "Head of Turning It Off and On Again",
+        "profession": "Bug Summoning / Rubber Duck Debugging",
+        "experienceList": [
+          "12 years of backend and map-service development at a made-up smart city consultancy. Has built route-planning tools for three imaginary cities. Collects vintage paper maps."
+        ]
+      },
+      {
+        "name": "Taylor Hayes",
+        "jobTitle": "VP of Sticky Notes",
+        "profession": "Roadmap Doodling / Meeting Survival",
+        "experienceList": [
+          "Spent 7 years moving between engineering and customer success at a sample SaaS company, turning client feedback into product roadmaps. Amateur home baker."
+        ]
+      },
+      {
+        "name": "Morgan Reed",
+        "jobTitle": "Senior Coffee-to-Code Converter",
+        "profession": "Overfitting / Blaming the Data",
+        "experienceList": [
+          "4 years of experience in demand forecasting and anomaly detection for a fictional retail chain; previously a research assistant in a placeholder statistics lab. Drinks tea, not coffee."
+        ]
+      },
+      {
+        "name": "Riley Foster",
+        "jobTitle": "Director of Vibes",
+        "profession": "Meme Curation / Emoji Strategy",
+        "experienceList": [
+          "Has led brand and content projects for a dozen demo startups, focusing on sustainability storytelling and community events. Part-time podcast host and board game enthusiast."
+        ]
+      }
+    ]
+  },
+  "blog": {
+    "title": {
+      "popular": "Articles People Actually Clicked",
+      "newest": "Fresh Out of the Oven",
+      "more": "Still Bored? Read More"
+    },
+    "read": "Read This",
+    "readMore": "Show Me Everything",
+    "imageSource": "(Borrowed From Here)"
+  },
+  "contact": {
+    "desc": "The FakeCompany team builds data-driven carbon solutions and promises to reply faster than your average group chat.",
+    "info": {
+      "location": "3F, No. 1, Example Rd., Zhongzheng Dist., Taipei City 100, Taiwan (Look for the plant that's still alive)"
+    },
+    "form": {
+      "name": {
+        "label": "Name",
+        "placeholder": "Please enter your name"
+      },
+      "com": {
+        "label": "Company",
+        "placeholder": "Please enter your company name"
+      },
+      "tel": {
+        "label": "Phone",
+        "placeholder": "Please enter your phone number"
+      },
+      "email": {
+        "label": "Email",
+        "placeholder": "Please enter your email address"
+      },
+      "detail": {
+        "label": "How Can We Help?",
+        "placeholder": "Please let us know what you need, and we'll get back to you soon."
+      }
+    },
+    "warn": {
+      "isRequired": "Please fill in this field.",
+      "telInvalid": "Please enter a valid phone number.",
+      "emailInvalid": "Please enter a valid email address.",
+      "detailExceedsLimit": "Please keep your message within 1000 characters."
+    },
+    "submit": {
+      "normal": "Submit",
+      "success": "Thank you! Your message has been sent.",
+      "fail": "Sorry, something went wrong. Please try again."
+    }
+  },
+  "others": {
+    "cta": "Let the data do the heavy lifting on your way to net zero",
+    "getDemo": "Show Me the Magic",
+    "toHome": "Take Me Home"
+  }
+}
